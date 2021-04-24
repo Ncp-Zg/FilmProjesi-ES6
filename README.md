@@ -1,2 +1,1 @@
-# FilmProjesi-ES6
-FilmProjesi-ES6
+https://ncp-zg.github.io/FilmProjesi-ES6/
